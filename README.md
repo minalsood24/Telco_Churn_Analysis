@@ -47,11 +47,6 @@ The dataset includes:
 
 ---
 
-## 📸 Preview
-![Churn Analysis](screenshot.png)
-
----
-
 ## 🚀 How to Run
 1. Open the notebook  
 2. Run all cells  
