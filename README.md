@@ -64,5 +64,5 @@ This analysis helps businesses understand customer behavior and take proactive m
 ---
 
 ## 👩‍💻 Author
-Minal Sood
-Prabhleen Kaur
+-Minal Sood
+-Prabhleen Kaur
